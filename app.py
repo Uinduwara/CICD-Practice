@@ -25,4 +25,4 @@ def create_profile_message(username, role="student"):
 
 
 if __name__ == "__main__":
-    print(create_profile_message("student_01"))
+    print(print("CI/CD Practice"))
